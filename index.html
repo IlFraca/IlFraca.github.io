@@ -1,72 +1,290 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
+<title>IlFraca</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.jrschools.com/jrcss/4/jr.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+body, html {
+  height: 100%;
+  color: #777;
+  line-height: 1.8;
+}
+
+/* Create a Parallax Effect */
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* First image (Logo. Full height) */
+.bgimg-1 {
+  background-image: url('/jrimages/parallax1.jpg');
+  min-height: 100%;
+}
+
+/* Second image (Portfolio) */
+.bgimg-2 {
+  background-image: url("/jrimages/parallax2.jpg");
+  min-height: 400px;
+}
+
+/* Third image (Contact) */
+.bgimg-3 {
+  background-image: url("/jrimages/parallax3.jpg");
+  min-height: 400px;
+}
+
+.jr-wide {letter-spacing: 10px;}
+.jr-hover-opacity {cursor: pointer;}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1600px) {
+  .bgimg-1, .bgimg-2, .bgimg-3 {
+    background-attachment: scroll;
+    min-height: 400px;
+  }
+}
+</style>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <!-- Optional Blog Link -->
-                <!-- <li><a href="#blog">Blog</a></li> -->
-            </ul>
-        </nav>
-    </header>
 
-    <section id="home">
-        <h1>Your Name</h1>
-        <p>Web Developer | Graphic Designer | Photographer</p>
-        <img src="your-photo.jpg" alt="Your Name">
-    </section>
+<!-- Navbar (sit on top) -->
+<div class="jr-top">
+  <div class="jr-bar" id="myNavbar">
+    <a class="jr-bar-item jr-button jr-hover-black jr-hide-medium jr-hide-large jr-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
+      <i class="fa fa-bars"></i>
+    </a>
+    <a href="#home" class="jr-bar-item jr-button">HOME</a>
+    <a href="#about" class="jr-bar-item jr-button jr-hide-small"><i class="fa fa-user"></i> ABOUT</a>
+    <a href="#portfolio" class="jr-bar-item jr-button jr-hide-small"><i class="fa fa-th"></i> PORTFOLIO</a>
+    <a href="#contact" class="jr-bar-item jr-button jr-hide-small"><i class="fa fa-envelope"></i> CONTACT</a>
+    <a href="#" class="jr-bar-item jr-button jr-hide-small jr-right jr-hover-red">
+      <i class="fa fa-search"></i>
+    </a>
+  </div>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Your introduction and background information go here.</p>
-    </section>
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="jr-bar-block jr-white jr-hide jr-hide-large jr-hide-medium">
+    <a href="#about" class="jr-bar-item jr-button" onclick="toggleFunction()">ABOUT</a>
+    <a href="#portfolio" class="jr-bar-item jr-button" onclick="toggleFunction()">PORTFOLIO</a>
+    <a href="#contact" class="jr-bar-item jr-button" onclick="toggleFunction()">CONTACT</a>
+    <a href="#" class="jr-bar-item jr-button">SEARCH</a>
+  </div>
+</div>
 
-    <section id="portfolio">
-        <h2>Portfolio</h2>
-        <!-- Example Project -->
-        <div class="project">
-            <img src="project1.jpg" alt="Project 1">
-            <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
+<!-- First Parallax Image with Logo Text -->
+<div class="bgimg-1 jr-display-container jr-opacity-min" id="home">
+  <div class="jr-display-middle" style="white-space:nowrap;">
+    <span class="jr-center jr-padding-large jr-black jr-xlarge jr-wide jr-animate-opacity">MY <span class="jr-hide-small">WEBSITE</span> LOGO</span>
+  </div>
+</div>
+
+<!-- Container (About Section) -->
+<div class="jr-content jr-container jr-padding-64" id="about">
+  <h3 class="jr-center">ABOUT ME</h3>
+  <p class="jr-center"><em>I love photography</em></p>
+  <p>We have created a fictional "personal" website/blog, and our fictional character is a hobby photographer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
+    qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <div class="jr-row">
+    <div class="jr-col m6 jr-center jr-padding-large">
+      <p><b><i class="fa fa-user jr-margin-right"></i>My Name</b></p><br>
+      <img src="/jrimages/avatar_hat.jpg" class="jr-round jr-image jr-opacity jr-hover-opacity-off" alt="Photo of Me" width="500" height="333">
+    </div>
+
+    <!-- Hide this text on small devices -->
+    <div class="jr-col m6 jr-hide-small jr-padding-large">
+      <p>Welcome to my website. I am lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+        dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor
+        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+  </div>
+  <p class="jr-large jr-center jr-padding-16">Im really good at:</p>
+  <p class="jr-wide"><i class="fa fa-camera"></i>Photography</p>
+  <div class="jr-light-grey">
+    <div class="jr-container jr-padding-small jr-dark-grey jr-center" style="width:90%">90%</div>
+  </div>
+  <p class="jr-wide"><i class="fa fa-laptop"></i>Web Design</p>
+  <div class="jr-light-grey">
+    <div class="jr-container jr-padding-small jr-dark-grey jr-center" style="width:85%">85%</div>
+  </div>
+  <p class="jr-wide"><i class="fa fa-photo"></i>Photoshop</p>
+  <div class="jr-light-grey">
+    <div class="jr-container jr-padding-small jr-dark-grey jr-center" style="width:75%">75%</div>
+  </div>
+</div>
+
+<div class="jr-row jr-center jr-dark-grey jr-padding-16">
+  <div class="jr-quarter jr-section">
+    <span class="jr-xlarge">14+</span><br>
+    Partners
+  </div>
+  <div class="jr-quarter jr-section">
+    <span class="jr-xlarge">55+</span><br>
+    Projects Done
+  </div>
+  <div class="jr-quarter jr-section">
+    <span class="jr-xlarge">89+</span><br>
+    Happy Clients
+  </div>
+  <div class="jr-quarter jr-section">
+    <span class="jr-xlarge">150+</span><br>
+    Meetings
+  </div>
+</div>
+
+<!-- Second Parallax Image with Portfolio Text -->
+<div class="bgimg-2 jr-display-container jr-opacity-min">
+  <div class="jr-display-middle">
+    <span class="jr-xxlarge jr-text-white jr-wide">PORTFOLIO</span>
+  </div>
+</div>
+
+<!-- Container (Portfolio Section) -->
+<div class="jr-content jr-container jr-padding-64" id="portfolio">
+  <h3 class="jr-center">MY WORK</h3>
+  <p class="jr-center"><em>Here are some of my latest lorem work ipsum tipsum.<br> Click on the images to make them bigger</em></p><br>
+
+  <!-- Responsive Grid. Four columns on tablets, laptops and desktops. Will stack on mobile devices/small screens (100% width) -->
+  <div class="jr-row-padding jr-center">
+    <div class="jr-col m3">
+      <img src="/jrimages/p1.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="The mist over the mountains">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p2.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="Coffee beans">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p3.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="Bear closeup">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p4.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="Quiet ocean">
+    </div>
+  </div>
+
+  <div class="jr-row-padding jr-center jr-section">
+    <div class="jr-col m3">
+      <img src="/jrimages/p5.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="The mist">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p6.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="My beloved typewriter">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p7.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="Empty ghost train">
+    </div>
+
+    <div class="jr-col m3">
+      <img src="/jrimages/p8.jpg" style="width:100%" onclick="onClick(this)" class="jr-hover-opacity" alt="Sailing">
+    </div>
+    <button class="jr-button jr-padding-large jr-light-grey" style="margin-top:64px">LOAD MORE</button>
+  </div>
+</div>
+
+<!-- Modal for full size images on click-->
+<div id="modal01" class="jr-modal jr-black" onclick="this.style.display='none'">
+  <span class="jr-button jr-large jr-black jr-display-topright" title="Close Modal Image"><i class="fa fa-remove"></i></span>
+  <div class="jr-modal-content jr-animate-zoom jr-center jr-transparent jr-padding-64">
+    <img id="img01" class="jr-image">
+    <p id="caption" class="jr-opacity jr-large"></p>
+  </div>
+</div>
+
+<!-- Third Parallax Image with Portfolio Text -->
+<div class="bgimg-3 jr-display-container jr-opacity-min">
+  <div class="jr-display-middle">
+     <span class="jr-xxlarge jr-text-white jr-wide">CONTACT</span>
+  </div>
+</div>
+
+<!-- Container (Contact Section) -->
+<div class="jr-content jr-container jr-padding-64" id="contact">
+  <h3 class="jr-center">WHERE I WORK</h3>
+  <p class="jr-center"><em>I'd love your feedback!</em></p>
+
+  <div class="jr-row jr-padding-32 jr-section">
+    <div class="jr-col m4 jr-container">
+      <img src="/jrimages/map.jpg" class="jr-image jr-round" style="width:100%">
+    </div>
+    <div class="jr-col m8 jr-panel">
+      <div class="jr-large jr-margin-bottom">
+        <i class="fa fa-map-marker fa-fw jr-hover-text-black jr-xlarge jr-margin-right"></i> Chicago, US<br>
+        <i class="fa fa-phone fa-fw jr-hover-text-black jr-xlarge jr-margin-right"></i> Phone: +00 151515<br>
+        <i class="fa fa-envelope fa-fw jr-hover-text-black jr-xlarge jr-margin-right"></i> Email: mail@mail.com<br>
+      </div>
+      <p>Swing by for a cup of <i class="fa fa-coffee"></i>, or leave me a note:</p>
+      <form action="/action_page.php" target="_blank">
+        <div class="jr-row-padding" style="margin:0 -16px 8px -16px">
+          <div class="jr-half">
+            <input class="jr-input jr-border" type="text" placeholder="Name" required name="Name">
+          </div>
+          <div class="jr-half">
+            <input class="jr-input jr-border" type="text" placeholder="Email" required name="Email">
+          </div>
         </div>
-        <!-- Add more projects as needed -->
-    </section>
+        <input class="jr-input jr-border" type="text" placeholder="Message" required name="Message">
+        <button class="jr-button jr-black jr-right jr-section" type="submit">
+          <i class="fa fa-paper-plane"></i> SEND MESSAGE
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
 
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <form action="contact-form-handler.php" method="post">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
-    </section>
+<!-- Footer -->
+<footer class="jr-center jr-black jr-padding-64 jr-opacity jr-hover-opacity-off">
+  <a href="#home" class="jr-button jr-light-grey"><i class="fa fa-arrow-up jr-margin-right"></i>To the top</a>
+  <div class="jr-xlarge jr-section">
+    <i class="fa fa-facebook-official jr-hover-opacity"></i>
+    <i class="fa fa-instagram jr-hover-opacity"></i>
+    <i class="fa fa-snapchat jr-hover-opacity"></i>
+    <i class="fa fa-pinterest-p jr-hover-opacity"></i>
+    <i class="fa fa-twitter jr-hover-opacity"></i>
+    <i class="fa fa-linkedin jr-hover-opacity"></i>
+  </div>
+  <p>Powered by <a href="https://www.jrschools.com/jrcss/default.asp" title="jr.CSS" target="_blank" class="jr-hover-text-green">jr.css</a></p>
+</footer>
+ 
+<script>
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
 
-    <!-- Optional Blog Page -->
-    <!-- <section id="blog">
-        <h2>Blog</h2>
-        <article>
-            <h3>Blog Post Title</h3>
-            <p>Content of your blog post.</p>
-        </article>
-        Add more blog posts as needed
-    </section> -->
+// Change style of navbar on scroll
+window.onscroll = function() {myFunction()};
+function myFunction() {
+    var navbar = document.getElementById("myNavbar");
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        navbar.className = "jr-bar" + " jr-card" + " jr-animate-top" + " jr-white";
+    } else {
+        navbar.className = navbar.className.replace(" jr-card jr-animate-top jr-white", "");
+    }
+}
 
-    <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
-    </footer>
+// Used to toggle the menu on small screens when clicking on the menu button
+function toggleFunction() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("jr-show") == -1) {
+        x.className += " jr-show";
+    } else {
+        x.className = x.className.replace(" jr-show", "");
+    }
+}
+</script>
+
 </body>
 </html>
