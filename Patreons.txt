@@ -1,14 +1,11 @@
 32Bit
-<size=80>Name</size>
-<size=80>Name</size>
-<size=80>Name</size>
+<size=30>Name</size>
+<size=30>Name</size>
+<size=30>Name</size>
 16Bit
-<size=80>Name</size>
-<size=80>Name</size>
-<size=80>Name</size>
+<size=30>Name</size>
+<size=30>Name</size>
+<size=30>Name</size>
 8Bit
-<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
 4Bit
-<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
 2Bit
-<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
