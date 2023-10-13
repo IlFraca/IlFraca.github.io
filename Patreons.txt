@@ -1,6 +1,14 @@
-Patreon names here
-<size=40>32Bit</size>
-<size=40>16Bit</size>
-<size=40>8Bit</size>
-<size=40>4Bit</size>
-<size=40>2Bit</size>
+32Bit
+<size=80>Name</size>
+<size=80>Name</size>
+<size=80>Name</size>
+16Bit
+<size=80>Name</size>
+<size=80>Name</size>
+<size=80>Name</size>
+8Bit
+<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
+4Bit
+<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
+2Bit
+<size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>, <size=80>Name</size>
