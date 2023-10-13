@@ -1,11 +1,5 @@
-32Bit
-<size=30>Name</size>
-<size=30>Name</size>
-<size=30>Name</size>
-16Bit
-<size=30>Name</size>
-<size=30>Name</size>
-<size=30>Name</size>
-8Bit
-4Bit
-2Bit
+<color=lightblue><i>32Bit</i></color>
+<color=lightblue><i>16Bit</i></color>
+<color=lightblue><i>8Bit</i></color>
+<color=lightblue><i>4Bit</i></color>
+<color=lightblue><i>2Bit</i></color>
