@@ -14,4 +14,4 @@ Mario Rpg
 <color=lightblue><i>2Bit</i></color>
 S.Myers
 <color=lightblue><i>Past Patreons</i></color>
-SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124
+<size=90>SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124</size>
