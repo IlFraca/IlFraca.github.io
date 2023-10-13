@@ -1,4 +1,4 @@
-<color=lightblue><i>32Bit</i></color>
+<size=90><color=lightblue><i>32Bit</i></color>
 Tz_Drake
 <color=lightblue><i>16Bit</i></color>
 CammyVanny
@@ -13,5 +13,5 @@ Courier_7
 Mario Rpg
 <color=lightblue><i>2Bit</i></color>
 S.Myers
-<color=lightblue><i>Past Patreons</i></color>
-<size=90>SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124</size>
+<color=lightblue><i>Past Patreons</i></color></size>
+<size=40>SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124</size>
