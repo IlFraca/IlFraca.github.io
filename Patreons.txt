@@ -6,7 +6,6 @@ CrypticNinja
 Dark Tooth
 JosephStardust
 HauptmannPootis
-Miss~Raven
 <color=lightblue><i>8Bit</i></color>
 Courier_7
 <color=lightblue><i>4Bit</i></color>
@@ -14,4 +13,4 @@ Mario Rpg
 <color=lightblue><i>2Bit</i></color>
 S.Myers
 <color=lightblue><i>Past Patreons</i></color></size>
-<size=40>SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124</size>
+<size=40>SmittyCity, Broken_Evil, Sharivan, ItzzRya, Forgotten f7b8, Luigi-game, PaulPeoples, _Walfles_, Broken_Evil, BunnyBoi124, Miss~Raven</size>
