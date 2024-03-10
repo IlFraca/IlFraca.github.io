@@ -3,7 +3,6 @@
 ;Jayie;
 ;JosephStardust;
 ;00rina;
-;AustinVR27;
 ;GarlicSergal;
 ;DriftyVRC;
 ;0neRandomDino;
@@ -40,3 +39,5 @@
 ;IamGlamrockBaby;
 ;RISE OF PHOENIX;
 ;Misbiscuits;
+;༒GlamAuzzy༒;
+;Stranger_Clown;
