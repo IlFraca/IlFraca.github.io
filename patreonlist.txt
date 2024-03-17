@@ -13,3 +13,4 @@
 ;HauptmannPootis;
 ;Courier_7;
 ;Mario Rpg;
+;LARGE_BOI;
