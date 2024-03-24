@@ -48,3 +48,5 @@
 ;DogDay The Dog;
 ;MrDukegamer;
 ;Jdp44009;
+;GlamrockJames;
+;Ft_Tristan;
