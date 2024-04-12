@@ -56,7 +56,7 @@
 ;Undead_JesterVR;
 ;Glamrock_HQ;
 ;~FOX_EH~;
-;Ryimi Myuki;
+;Ryimi K;
 ;XDHOOKEDXD;
 ;Yeetus_Deyeetus;
 ;Morganfnafbrain;
@@ -77,3 +77,9 @@
 ;Archer_Queen08 f4a2;
 ;Sha_The_Sheep;
 ;LizieDoodles;
+;Hope4Hatred;
+;Ninxus;
+;lpumpkin․l;
+;Gigi The Gnarpy;
+;~MichaelAfton;
+;~William Afton;
