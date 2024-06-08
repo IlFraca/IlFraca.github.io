@@ -55,7 +55,7 @@
 ;PLΛƬIПUM_DΣΛƬH;
 ;Undead_JesterVR;
 ;MacawVA;
-;~FOX_EH~;
+;_RavenVA_;
 ;Ryimi K;
 ;XDHOOKEDXD;
 ;Yeetus_Deyeetus;
@@ -119,3 +119,6 @@
 ;ღＧｒｅｙＤｕｓｔღ;
 ;girlinurdreams;
 ;Fnaf-Rainbow;
+;'Freiza';
+;'Springtrap';
+;FNAFEthanVR;
