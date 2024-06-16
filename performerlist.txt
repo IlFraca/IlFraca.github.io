@@ -100,7 +100,7 @@
 ;ShadowMidnight325 fa76;
 ;DarkDylan888;
 ;Rocky WolfHog;
-;Daysoul_barry11 2ee6;
+;Daysoul_Barry11;
 ;CaughtDragon679;
 ;death_assistant;
 ;Father_gator;
@@ -122,4 +122,5 @@
 ;'Freiza';
 ;'Springtrap';
 ;FNAFEthanVR;
-;Andi15;
+;_Andi;
+;RockyErrorBlood;
