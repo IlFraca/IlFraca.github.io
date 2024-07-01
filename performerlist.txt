@@ -72,3 +72,4 @@
 ;ʜᴀʏᴡɪʀᴇ;
 ;PumpkinRabbit19;
 ;TheVRChatShow;
+;death_assistant;
