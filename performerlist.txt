@@ -74,3 +74,4 @@
 ;TheVRChatShow;
 ;death_assistant;
 ;BumblebeeAftøn;
+;Fraca;
