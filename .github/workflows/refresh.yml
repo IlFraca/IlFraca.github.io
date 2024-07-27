@@ -17,4 +17,4 @@ jobs:
         env:
           # You must create a personal token with repo access as GitHub does
           # not yet support server-to-server page builds.
-          USER_TOKEN: ${{ secrets.USER_TOKEN }}
+          USER_TOKEN: ${{ secrets.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 }}
