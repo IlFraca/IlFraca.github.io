@@ -1,3 +1,3 @@
-Columns:
-Rows:
-FrameRate:
+Columns: 5
+Rows: 4 
+FrameRate: 8
