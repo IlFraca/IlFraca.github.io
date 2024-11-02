@@ -1,265 +1,287 @@
-;Fraca;
-;IlFraca;
-;Jayie;
-;CaughtDragon679;
-;GlamrockJames;
-;Ft_Tristan;
-;GlamrockENT;
-;Glamrock ENT;
-;Đeađly;
-;Father_gator;
-;_Glamrock_Foxy;
-;SlightlyChipped;
-;WholuigiMK2;
-;WildEEKS;
-;Voltashadow da15;
-;car1230;
-;?CønfusedDeer¿¡;
-;ignitedfunroad;
-;Glam monty8599;
-;Abriz;
-;GlazeAngel;
-;'Freiza';
-;'Springtrap';
-
-;٭GʅαɱSƚαɾLιɠԋƚ٭;
-;JustBlex;
-;_Andi;
-;WhatMe;
-;Rυʂƚყ;
-;SlushyShinju;
-;Pirate371;
-;FNAFEthanVR;
-;Snezzzzy;
-;Jdp44009;
-;MrDukegamer;
-;RedRock7510;
-;Ricanman;
-;TeknoBat;
-;ruby_the_wolf;
-;bonnie․252529 d6e6;
-;Zane․546 c322;
-;deinonic 3628;
-;_RavenVA_;
-;0neRandomDino;
-;~FredbearVA~;
-;Psychoshadow;
-;・ᴠɪxᴇɴ_ᴠɪʀᴜs・;
-;Vixen_Virus;
-;StayingFrosty;
-;nyanimura;
-;InvertedSpirit;
-;【 L o f y 】;
-;-Tourist-;
-;CammyVanny;
-;GlampopRoxanne;
-;FlamingFoxGamer;
-;deadbytherivers;
-;Jerry＆Jade;
-;ღＧｒｅｙ Ｍａｋｅｒღ;
-;Localnighterror;
-;jkilla64;
-;N1ghtM4re_;
-;》Captain Omega《;
-;iAmGlamrockBaby;
-;CyberpunkPirate;
-;~Glamtime Kate~;
-;~Glamtime Zemi~;
-;G_SpringBonnie;
-;ᴇᴠᴇʀʏᴛʜɪɴɢ25;
-;maefora;
-;SpicyLucifer69;
-;ʜᴀʏᴡɪʀᴇ;
-;PumpkinRabbit19;
-;death_assistant;
-;BumblebeeAftøn;
-;༒GlamAuzzy༒;
-;Stranger_Clown;
-;glammase 56b3;
-;Nothing0101 2573;
-;SPIҜΞΓHΞFФЖ;
-;り乇ﾑｲん尺のᄃズ_ﾚ乇の;
-;AlphaKing0721;
-;GlamrockErik;
-;shadow4455 5ce7;
-;Yeetus_Deyeetus;
-;Wɪʟʟɪᴀᴍ Aғᴛoɴ;
-;༒~MARTIN~༒;
-;goldenfreddy1;
-;FnafBrainiac;
-;FazbearVinyl;
-;Nff99;
-;PLΛƬIПUM_DΣΛƬH;
-;paulpeoples;
-;Ralius;
-;Undead_JesterVR;
-;WhatMe;
-;JustZoey;
-;Sharee;
-;JustBlex;
-;N1ghtM4re_;
-;Luciferluci;
-;DimebagDarrell;
-;CurseVerify;
-;_Colo_;
-;GunjarWolf;
-;millicul;
-;B E R B E D;
-;Glamrock_HQ;
-;Lil' Kamo;
-;GRDAVID_W;
-;Glamrockin Frog;
-;Glamtime_mangle;
-;RockyErrorBlood;
-;nightmarekiller46 57c7;
-;dusker.2024 5a53;
-;handsomejack2810 cacb;
-;Harryphilp․world edd2;
-;JustGamingVr;
-;Swaggkam24;
-;C․C․V a631;
-;goldies_plays;
-;trayvr․2023 970d;
-;Crystal_dd62;
-;Rose afton94;
-;Jaxonartic;
-;ShadowBunni;
-;MasterArt;
-;Buster_Madness;
-;DatOof;
-;Detectivefunguy;
-;Luna Aria Wolf;
-;pedri80;
-;Scraptonic;
-;LiamXSC;
-;~Ryeman~;
-;VixiXen;
-;TECH-ND 7c80;
-;Glamrock Mei;
-;Ｒｏｃｋｓｔａｒ Ｆｒｅｄｄｙ;
-;ᴀᴄɪᴅᴡᴇʙʙᴇʀ;
-;__KILLA__;
-;ᴘsʏᴄʜᴏsʜᴀᴅᴏᴡ;
-;OʟɪᴠᴇʀCᴀᴜsᴇYᴇs;
-;SPEEDYVR-YT;
-;Ozzy1987;
-;DaBritishCorpse;
-;_Hori;
-;LailaTheFox;
-;Glamrock'mangle;
-;Sha_The_Sheep;
-;LizieDoodles;
-;DarkDylan888;
-;ImNilla;
-;SmittyCity;
-;༒ᴄʜᴇʀʀʏᴢ༒;
-;Breezyシ;
-;~WildHusko~;
-;NOT_FOUND cb91;
-;Stella the Fox;
-;DrStaplesV2;
-;buckuwu;
-;BluePhoenix5961;
-;-Nitro-Zeus-SS;
-;Kelly Knight;
-;ᴏᴘᴛɪᴍᴀʟ;
-;Kellyknght2;
-;Frisky The Folf;
-;ShiftingSystem;
-;OreliaGames;
-;《William Afton》;
-;SaidaAisujester;
-;KrystalSmith;
-;Gooch81076 4c05;
-;ZanderMan17;
-;RobotSou1;
-;R̴e̶d̸V̸o̴i̷d̵;
-;Sanderrice;
-;Kitty Patrol 174d;
-;itzkmb;
-;QueenRainbowD;
-;-PlaneRider-;
-;IL_Azzazzin_IL;
-;GlamrockJames;
-;bluefirejay․2024 8619;
-;RHM Blue;
-;FOxEEs;
-;Astro_Boy_Delta;
-;BlaydeVR;
-;silver123213 50d2;
-;ღlilac Aftonღ;
-;roachbinn;
-;Alexx8888888i;
-;ghosttim535;
-;Impfizzy;
-;Cɾιɱʂσɳƈԋασʂ;
-;Ňįğhť ţřåp;
-;C̴a̴s̴s̴i̴d̴y̴;
-;ḾíćháéĺÁftőń;
-;eddiehaggp 03be;
-;Lanmi f42f;
-;RandomOwO;
-;ChocoBerryVR 68f0;
-;~FIZZYBOI~;
-;~Lover_DJ~;
-;Cookiie Morral;
-;Glitchtrap_1940;
-;TECH-ND 2 PC3C8;
-;CherryBumblebee;
-;-Kazzy;
-;ihaveacat2 d74c;
-;nefarious_vr;
-;thatonesonic 68d9;
-;Jake Brent;
-;《T o n y VA》;
-;ɢʀᴀɴᴅ ᴄʟᴀɴᴋᴀ;
-;thunderwuff.2024 507c;
-;charlĩe_catnap;
-;deventhezombie;
-;AlphaFox-;
-;GlʍαʍʀøcκMαπĝlε;
-;IamAxolotl12 eed1;
-;Glamtime Mangle;
-;QUEEN-of_Death;
-;GamerBunny4;
-;Maxine_;
-;Dereck-void;
-;~ kíԵsմ ~;
-;ɱσσɳรɦเɳε;
-;JackieLex;
-;-_Regal_-;
-;Loona HellH0und;
-;BONBUN475 e3f2;
-;Astro_Boy_Delta;
-;Not_found777;
-;Ryanbrown2009;
-;IsabelleVR;
-;Darkredstarzz;
-;Nova-bucket;
-;fred69911;
-;s ᴀ ᴍ ᴜ ʀ ᴀ ɪ;
-;Kuni_;
-;Harryphilpworld;
-;ᴛʜᴇʙᴜᴍʙʟᴇʙᴇᴇ_ᴠᴀ;
-;StarRockFreddy;
-;T R O N I C;
-;~Synthbear~;
-;Pearlikevr 683b;
-;Kosma Kaluha;
-;»°_Raph_°«;
-;xBunniBoox;
-;RexytheDinosaur 6ada;
-;LordSkeletor_;
-;Geistgeshutman;
-;༒Rocket_Bryce༒;
-;pizzabrok20;
-;Glamrock_FOxEEs;
-;~Montgomery~;
-;WardedWarrior69;
-;Lady_Rosie12;
-;drone gt;
-;DG-void;
-;Cassy Bunny;
-;GL_Fredrick;
-;DroneProductions 508d;
-;thunderwuff․2024 507c;
+Fraca
+;IlFraca
+;Jayie
+;CaughtDragon679
+;GlamrockJames
+;FTTristan
+;GlamrockENT
+;Glamrock ENT
+;Đeađly
+;Father_gator
+;_Glamrock_Foxy
+;SlightlyChipped
+;WholuigiMK2
+;WildEEKS
+;Voltashadow da15
+;car1230
+;?CønfusedDeer¿¡
+;ignitedfunroad
+;Glam bonnie8599
+;Abriz
+;GlazeAngel
+;'Freiza'
+;'Springtrap'
+;٭GʅαɱSƚαɾLιɠԋƚ٭
+;JustBlex
+;_Andi
+;WhatMe
+;Rυʂƚყ
+;SlushyShinju
+;Pirate371
+;FNAFEthanVR
+;Snezzzzy
+;Jdp44009
+;MrDukegamer
+;RedRock7510
+;Ricanman
+;TeknoBat
+;ruby_the_wolf
+;bonnie․252529 d6e6
+;Zane․546 c322
+;deinonic 3628
+;_RavenVA_
+;0neRandomDino
+;~FredbearVA~
+;Psychoshadow
+;・ᴠɪxᴇɴ_ᴠɪʀᴜs・
+;Vixen_Virus
+;StayingFrosty
+;nyanimura
+;InvertedSpirit
+;【 L o f y 】
+;-Tourist-
+;CammyVanny
+;GlampopRoxanne
+;FlamingFoxGamer
+;deadbytherivers
+;Jerry＆Jade
+;ღＧｒｅｙ Ｍａｋｅｒღ
+;Localnighterror
+;jkilla64
+;N1ghtM4re_
+;》Captain Omega《
+;iAmGlamrockBaby
+;CyberpunkPirate
+;~Glamtime Kate~
+;~Glamtime Zemi~
+;G_SpringBonnie
+;ᴇᴠᴇʀʏᴛʜɪɴɢ25
+;maefora
+;SpicyLucifer69
+;ʜᴀʏᴡɪʀᴇ
+;PumpkinRabbit19
+;death_assistant
+;BumblebeeAftøn
+;༒GlamAuzzy༒
+;Stranger_Clown
+;glammase 56b3
+;Nothing0101 2573
+;SPIҜΞΓHΞFФЖ
+;り乇ﾑｲん尺のᄃズ_ﾚ乇の
+;AlphaKing0721
+;GlamrockErik
+;shadow4455 5ce7
+;Yeetus_Deyeetus
+;Wɪʟʟɪᴀᴍ Aғᴛoɴ
+;༒~MARTIN~༒
+;goldenfreddy1
+;FnafBrainiac
+;FazbearVinyl
+;Nff99
+;PLΛƬIПUM_DΣΛƬH
+;paulpeoples
+;Ralius
+;Undead_JesterVR
+;WhatMe
+;JustZoey
+;Sharee
+;JustBlex
+;N1ghtM4re_
+;Luciferluci
+;DimebagDarrell
+;CurseVerify
+;_Colo_
+;GunjarWolf
+;millicul
+;B E R B E D
+;~¢уρяυѕ~
+;Lil' Kamo
+;GRDAVID_W
+;Glamrockin Frog
+;Glamtime_mangle
+;RockyErrorBlood
+;nightmarekiller46 57c7
+;dusker.2024 5a53
+;handsomejack2810 cacb
+;Harryphilp․world edd2
+;JustGamingVr
+;Swaggkam24
+;C․C․V a631
+;goldies_plays
+;trayvr․2023 970d
+;Crystal_dd62
+;Rose afton94
+;Jaxonartic
+;ShadowBunni
+;MasterArt
+;Buster_Madness
+;DatOof
+;Detectivefunguy
+;Luna Aria Wolf
+;pedri80
+;Scraptonic
+;LiamXSC
+;~Ryeman~
+;VixiXen
+;TECH-ND 7c80
+;Glamrock Mei
+;Ｒｏｃｋｓｔａｒ Ｆｒｅｄｄｙ
+;ᴀᴄɪᴅᴡᴇʙʙᴇʀ
+;__KILLA__
+;ᴘsʏᴄʜᴏsʜᴀᴅᴏᴡ
+;OʟɪᴠᴇʀCᴀᴜsᴇYᴇs
+;SPEEDYVR-YT
+;Ozzy1987
+;DaBritishCorpse
+;_Hori
+;LailaTheFox
+;Glamrock'mangle
+;Sha_The_Sheep
+;LizieDoodles
+;DarkDylan888
+;ImNilla
+;SmittyCity
+;༒ᴄʜᴇʀʀʏᴢ༒
+;Breezyシ
+;~WildHusko~
+;NOT_FOUND cb91
+;Stella the Fox
+;DrStaplesV2
+;buckuwu
+;BluePhoenix5961
+;-Nitro-Zeus-SS
+;Kelly Knight
+;ᴏᴘᴛɪᴍᴀʟ
+;Kellyknght2
+;Frisky The Folf
+;ShiftingSystem
+;OreliaGames
+;《William Afton》
+;SaidaAisujester
+;KrystalSmith
+;Gooch81076 4c05
+;ZanderMan17
+;RobotSou1
+;R̴e̶d̸V̸o̴i̷d̵
+;Sanderrice
+;Kitty Patrol 174d
+;itzkmb
+;QueenRainbowD
+;-PlaneRider-
+;IL_Azzazzin_IL
+;GlamrockJames
+;bluefirejay․2024 8619
+;RHM Blue
+;FOxEEs
+;Astro_Boy_Delta
+;BlaydeVR
+;silver123213 50d2
+;ღlilac Aftonღ
+;roachbinn
+;Alexx8888888i
+;ghosttim535
+;Impfizzy
+;ღƈɾιɱʂσɳʂƚαɾɾღ
+;Ňįğhť ţřåp
+;C̴a̴s̴s̴i̴d̴y̴
+;ḾíćháéĺÁftőń
+;eddiehaggp 03be
+;Lanmi f42f
+;RandomOwO
+;ChocoBerryVR 68f0
+;~FIZZYBOI~
+;~Lover_DJ~
+;Cookiie Morral
+;Glitchtrap_1940
+;TECH-ND 2 PC3C8
+;CherryBumblebee
+;-Kazzy
+;ihaveacat2 d74c
+;nefarious_vr
+;thatonesonic 68d9
+;Jake Brent
+;《T o n y VA》
+;ɢʀᴀɴᴅ ᴄʟᴀɴᴋᴀ
+;thunderwuff.2024 507c
+;charlĩe_catnap
+;deventhezombie
+;AlphaFox-
+;GlʍαʍʀøcκMαπĝlε
+;IamAxolotl12 eed1
+;Glamtime Mangle
+;QUEEN-of_Death
+;GamerBunny4
+;Maxine_
+;Dereck-void
+;~ kíԵsմ ~
+;ɱσσɳรɦเɳε
+;JackieLex
+;-_Regal_-
+;Loona HellH0und
+;BONBUN475 e3f2
+;Astro_Boy_Delta
+;Not_found777
+;Ryanbrown2009
+;IsabelleVR
+;Darkredstarzz
+;Majin-Nova
+;fred69911
+;s ᴀ ᴍ ᴜ ʀ ᴀ ɪ
+;Kuni_
+;Harryphilpworld
+;ᴛʜᴇʙᴜᴍʙʟᴇʙᴇᴇ_ᴠᴀ
+;StarRockFreddy
+;T R O N I C
+;~Synthbear~
+;Pearlikevr 683b
+;Kosma Kaluha
+;»°_Raph_°«
+;xBunniBoox
+;RexytheDinosaur 6ada
+;LordSkeletor_
+;Geistgeshutman
+;༒Rocket_Bryce༒
+;pizzabrok20
+;Glamrock_FOxEEs
+;~Montgomery~
+;WardedWarrior69
+;Lady_Rosie12
+;drone gt
+;DG-void
+;Cassy Bunny
+;GL_Fredrick
+;DroneProductions 508d
+;thunderwuff․2024 507c
+;Officallycassシ
+;Ennard123VR
+;ArmourOfDeath
+;~ɾαѵҽղ~
+;Harryphilpworld
+;༒ღJαδεღ༒
+;Timebreaker666
+;RoboticMoony
+;ӨПɭƗŇ€-Δ₣ŦӨП77ͯ
+;DylanTheRacoon37 8250
+;「 GoldenCraft 」
+;rival rebel2156
+;SpringOfficial
+;FunKyFruiTJuice
+;~ºMoonº~
+;~SynthBear~
+;EmmaTrαթ
+;Ezy_Rabbit
+;MamaMontyGator
+;oscski․2023 d525
+;Glitchtrap․195885 de5a
+;GlamFreddy_VRC
+;Braydenj72
